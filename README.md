@@ -33,7 +33,7 @@ Clone o repositório:
 
 Bash
 
-git clone <URL_DO_SEU_REPOSITORIO>
+git clone <https://github.com/ArnaldoFelipe/Desafio-DIO-Poo>
 Abra o projeto na sua IDE: Use sua IDE favorita (IntelliJ, Eclipse, VS Code) para abrir o projeto.
 
 Execute a classe principal: A lógica de simulação está na classe Main (ou similar). Execute o método main para ver a simulação do sistema.
